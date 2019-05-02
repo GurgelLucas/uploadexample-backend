@@ -1,0 +1,6 @@
+**Depedências**
+
+Morgan -> Biblioteca para fazer requisições de logs http
+Mongoose -> Biblioteca para lhe dar com o banco de dados MOngoDB
+Multer -> Middleware do Express que serve para manipular requisiçõe de tipo multi part form
+(requisições que podem trazer arquivos)
